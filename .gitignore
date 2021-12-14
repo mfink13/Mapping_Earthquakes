@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # add API key
-app.py
+config.js
 
 
 # C extensions
