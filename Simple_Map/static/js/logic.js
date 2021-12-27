@@ -2,15 +2,16 @@
 console.log("working");
 
 // Create the map object with a center and zoom level.
-// let map = L.map('mapid').setView([40.7, -94.5], 4);
+let map = L.map('mapid').setView([40.7, -94.5], 4);
 
 // Create the map object with a center and zoom level.
-let map = L.map("mapid", {
-    center: [
-      40.7, -94.5
-    ],
-    zoom: 4
-  });
+// (another way to code the above)
+// let map = L.map("mapid", {
+//     center: [
+//       40.7, -94.5
+//     ],
+//     zoom: 4
+//   });
 
   // We create the tile layer that will be the background of our map.
 // We create the tile layer that will be the background of our map.
