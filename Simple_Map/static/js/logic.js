@@ -34,3 +34,7 @@ streets.addTo(map);
 // mapbox/dark-v10
 // mapbox/satellite-v9
 // mapbox/satellite-streets-v11
+//styles/mapbox/navigation-preview-day-v4
+//styles/mapbox/navigation-preview-night-v4
+//styles/mapbox/navigation-guidance-day-v4
+//styles/mapbox/navigation-guidance-night-v4
